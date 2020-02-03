@@ -63,7 +63,7 @@ const Total = (props) => {
 
   return (
     <div>
-      <h3>Total of {total}</h3>
+      <h3>Yhteensä {total}</h3>
     </div>
   )
 }
